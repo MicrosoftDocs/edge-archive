@@ -1,14 +1,13 @@
 ---
-description: Legacy Microsoft Edge documentation.  Content for Microsoft Edge (edgeHTML).
+description: Legacy Microsoft Edge documentation and content for Microsoft Edge (EdgeHTML).
 title: Legacy Microsoft Edge documentation
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 03/16/2021
+ms.date: 04/02/2021
 ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: devtools
 keywords: microsoft edge, web development, f12 tools, devtools
-ms.localizationpriority: high
 ---
 # Legacy Microsoft Edge documentation  
 
@@ -44,13 +43,11 @@ Thank you for your interest in Microsoft Edge.  The following article summarizes
 | [JavaScript runtime hosting overview][EdgehtmlHostingJavascriptRuntimeHostingIndex] \(not recommended\) | The JavaScript Runtime \(JsRT\) APIs provide a way for desktop, Windows Store, and server-side apps.  The APIs run on the Windows operating system to add scripting capabilities to an app using the standards-based Chakra JavaScript engine.   The Chakra JavaScript engine is also utilized by legacy Microsoft Edge and Internet Explorer. |  
 | [Performance Analysis overview][EdgehtmlPerformanceAnalysisIndex] \(not recommended\) | Use F12 developer tools to analyze the general performance of websites. |  
 | [WebDriver overview][EdgehtmlWebdriverIndex] \(not recommended\) | Learn how to get started with WebDriver.  WebDriver is a wire protocol that allows programs and scripts to control the behavior of your web browser. |  
-| [WebVR][WebvrIndex] \(not recommended\) | WebVR is an open standard JavaScript API that makes it possible to experience immersive 3D Virtual Reality \(VR\) apps using a web browser like Microsoft Edge and a supported VR headset. |  
+| [WebVR][ArchiveMicrosoftWebvrIndex] \(not recommended\) | WebVR is an open standard JavaScript API that makes it possible to experience immersive 3D Virtual Reality \(VR\) apps using a web browser like Microsoft Edge and a supported VR headset. |  
 | [Windows Runtime (WinRT) overview][EdgehtmlWindowsRuntimeIndex] \(not recommended\) | Use the Windows Runtime \(WinRT\) to call native Windows APIs from your JavaScript app. |  
 
 <!-- links -->  
 
-[DevtoolsGuideChromiumMain]: ../devtools-guide-chromium/index.md "Microsoft Edge (Chromium) Developer Tools overview | Microsoft Docs"  
-[DevtoolsProtocolChromiumMain]: ../devtools-protocol-chromium/index.md "Microsoft Edge (Chromium) DevTools Protocol overview | Microsoft Docs"  
 [EdgehtmlDevGuideIndex]: ./dev-guide/index.md "Microsoft Edge Developer Guide | Microsoft Docs"  
 [EdgehtmlDevtoolsGuideIndex]: ./devtools-guide/index.md "Microsoft Edge (EdgeHTML) Developer Tools | Microsoft Docs"  
 [EdgehtmlDevtoolsProtocolIndex]: ./devtools-protocol/index.md "Microsoft Edge (EdgeHTML) DevTools Protocol | Microsoft Docs"  
@@ -61,11 +58,13 @@ Thank you for your interest in Microsoft Edge.  The following article summarizes
 [EdgehtmlPerformanceAnalysisIndex]: ./performance-analysis/index.md "Performance Analysis | Microsoft Docs"  
 [EdgehtmlWebdriverIndex]: ./webdriver/index.md "WebDriver (EdgeHTML) | Microsoft Docs"  
 [EdgehtmlWindowsRuntimeIndex]: ./windows-runtime/index.md "Windows Runtime (WinRT) for JavaScript | Microsoft Docs"  
-[ExtensionsChromiumIndex]: ../extensions-chromium/index.md "Microsoft Edge (Chromium) Extensions overview | Microsoft Docs"  
-[ProgressiveWebAppsChromiumIndex]: ../progressive-web-apps-chromium/index.md "Progressive Web Apps on Windows overview | Microsoft Docs"  
-[WebdriverChromiumIndex]: ../webdriver-chromium/index.md "Use WebDriver (Chromium) for test automation overview | Microsoft Docs"  
-[WebPlatformSiteImpactingChanges]: ../web-platform/site-impacting-changes.md "Site compatibility-impacting changes coming to Microsoft Edge | Microsoft Docs"  
-[Webview2Index]: ../webview2/index.md "Introduction to Microsoft Edge WebView2 | Microsoft Docs"  
 
-[WebvrIndex]: /microsoft-edge/webvr/index "WebVR Developer's Guide | Microsoft Docs"  
+[ArchiveMicrosoftWebvrIndex]: /archive/microsoft-edge/webvr/index "WebVR Developer's Guide | Microsoft Docs"  
 
+[DevtoolsGuideChromiumMain]: /microsoft-edge/devtools-guide-chromium/index "Microsoft Edge (Chromium) Developer Tools overview | Microsoft Docs"  
+[DevtoolsProtocolChromiumMain]: /microsoft-edge/devtools-protocol-chromium/index "Microsoft Edge (Chromium) DevTools Protocol overview | Microsoft Docs"  
+[ExtensionsChromiumIndex]: /microsoft-edge/extensions-chromium/index "Microsoft Edge (Chromium) Extensions overview | Microsoft Docs"  
+[ProgressiveWebAppsChromiumIndex]: /microsoft-edge/progressive-web-apps-chromium/index "Progressive Web Apps on Windows overview | Microsoft Docs"  
+[WebdriverChromiumIndex]: /microsoft-edge/webdriver-chromium/index "Use WebDriver (Chromium) for test automation overview | Microsoft Docs"  
+[WebPlatformSiteImpactingChanges]: /microsoft-edge/web-platform/site-impacting-changes "Site compatibility-impacting changes coming to Microsoft Edge | Microsoft Docs"  
+[Webview2Index]: /microsoft-edge/webview2/index "Introduction to Microsoft Edge WebView2 | Microsoft Docs"  
