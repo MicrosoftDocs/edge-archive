@@ -1,0 +1,32 @@
+{
+  "redirections": [
+    {
+      "source_path": "docs/devtools-guide-chromium/index.md",
+      "redirect_url": "/microsoft-edge/devtools-guide-chromium/index"
+    },
+    {
+      "source_path": "docs/devtools-protocol-chromium/index.md",
+      "redirect_url": "/microsoft-edge/devtools-protocol-chromium/index"
+    },
+    {
+      "source_path": "docs/extensions-chromium/index.md",
+      "redirect_url": "/microsoft-edge/extensions-chromium/index"
+    },
+    {
+      "source_path": "docs/progressive-web-apps-chromium/index.md",
+      "redirect_url": "/microsoft-edge/progressive-web-apps-chromium/index"
+    },
+    {
+      "source_path": "docs/webdriver-chromium/index.md",
+      "redirect_url": "/microsoft-edge/webdriver-chromium/index"
+    },
+    {
+      "source_path": "docs/web-platform/site-impacting-changes.md",
+      "redirect_url": "/microsoft-edge/web-platform/site-impacting-changes"
+    },
+    {
+      "source_path": "docs/webview2/index.md",
+      "redirect_url": "/microsoft-edge/webview2/index"
+    }
+  ]
+}
