@@ -16,7 +16,7 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "base_path": "/archive/microsoft-edge/edgehtml/",
+      "base_path": "/archive/microsoft-edge/legacy/",
       "site_name": "Docs"
     }
   ],
