@@ -1,7 +1,7 @@
 {
   "redirections": [
     {
-      "source_path": "/microsoft-edge/edgehtml/index.md",
+      "source_path": "microsoft-edge/edgehtml/index.md",
       "redirect_url": "/archive/microsoft-edge/legacy/index",
       "redirect_document_id": false
     },
