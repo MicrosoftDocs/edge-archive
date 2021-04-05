@@ -2162,577 +2162,577 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsaddref-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsaddref-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsbooleantobool-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsbooleantobool-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsbooltoboolean-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsbooltoboolean-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscallfunction-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscallfunction-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscollectgarbage-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscollectgarbage-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconstructobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconstructobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetoboolean-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetoboolean-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetonumber-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetonumber-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetoobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetoobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetostring-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsconvertvaluetostring-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatearray-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatearray-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatearraybuffer-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatearraybuffer-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatecontext-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatecontext-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatedataview-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatedataview-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateerror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateerror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateexternalarraybuffer-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateexternalarraybuffer-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateexternalobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateexternalobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatefunction-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatefunction-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatenamedfunction-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatenamedfunction-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreaterangeerror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreaterangeerror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatereferenceerror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatereferenceerror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateruntime-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateruntime-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatesymbol-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatesymbol-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatesyntaxerror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatesyntaxerror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatetypeerror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatetypeerror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatetypedarray-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreatetypedarray-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateurierror-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jscreateurierror-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdefineproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdefineproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdeleteindexedproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdeleteindexedproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdeleteproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdeleteproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdisableruntimeexecution-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdisableruntimeexecution-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdisposeruntime-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdisposeruntime-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdoubletonumber-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsdoubletonumber-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsenableruntimeexecution-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsenableruntimeexecution-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsenumerateheap-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsenumerateheap-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsequals-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsequals-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetandclearexception-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetandclearexception-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetarraybufferstorage-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetarraybufferstorage-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcontextdata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcontextdata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcontextofobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcontextofobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcurrentcontext-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetcurrentcontext-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetdataviewstorage-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetdataviewstorage-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetextensionallowed-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetextensionallowed-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetfalsevalue-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetfalsevalue-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetglobalobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetglobalobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetindexedpropertiesexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetindexedpropertiesexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetindexedproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetindexedproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetnullvalue-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetnullvalue-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertydescriptor-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertydescriptor-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertynames-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertynames-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertysymbols-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetownpropertysymbols-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidfromname-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidfromname-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidfromsymbol-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidfromsymbol-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidtype-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertyidtype-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertynamefromid-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetpropertynamefromid-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetprototype-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetprototype-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntime-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntime-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntimememorylimit-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntimememorylimit-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntimememoryusage-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetruntimememoryusage-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetstringlength-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetstringlength-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetsymbolfrompropertyid-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetsymbolfrompropertyid-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettruevalue-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettruevalue-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettypedarrayinfo-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettypedarrayinfo-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettypedarraystorage-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgettypedarraystorage-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetundefinedvalue-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetundefinedvalue-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetvaluetype-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsgetvaluetype-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasexception-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasexception-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasindexedpropertiesexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasindexedpropertiesexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasindexedproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasindexedproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jshasproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsidle-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsidle-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinspectabletoobject-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinspectabletoobject-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinstanceof-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinstanceof-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinttonumber-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsinttonumber-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsisenumeratingheap-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsisenumeratingheap-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsisruntimeexecutiondisabled-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsisruntimeexecutiondisabled-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsnumbertodouble-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsnumbertodouble-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsnumbertoint-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsnumbertoint-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsobjecttoinspectable-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsobjecttoinspectable-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparsescript-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparsescript-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparseserializedscript-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparseserializedscript-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparseserializedscriptwithcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsparseserializedscriptwithcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jspointertostring-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jspointertostring-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jspreventextension-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jspreventextension-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsprojectwinrtnamespace-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsprojectwinrtnamespace-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrelease-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrelease-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunscript-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunscript-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunserializedscript-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunserializedscript-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunserializedscriptwithcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsrunserializedscriptwithcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsserializescript-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsserializescript-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetcontextdata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetcontextdata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetcurrentcontext-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetcurrentcontext-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetexception-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetexception-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetindexedpropertiestoexternaldata-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetindexedpropertiestoexternaldata-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetindexedproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetindexedproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetobjectbeforecollectcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetobjectbeforecollectcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetprojectionenqueuecallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetprojectionenqueuecallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetpromisecontinuationcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetpromisecontinuationcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetproperty-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetproperty-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetprototype-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetprototype-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimebeforecollectcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimebeforecollectcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimememoryallocationcallback-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimememoryallocationcallback-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimememorylimit-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jssetruntimememorylimit-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstartdebugging-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstartdebugging-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstartprofiling-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstartprofiling-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstopprofiling-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstopprofiling-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstrictequals-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstrictequals-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstringtopointer-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsstringtopointer-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsvaluetovariant-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsvaluetovariant-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
     {
-      "source_path": "microsoft-edge/hosting/chakra-hosting/jsvarianttovalue-function.md  ",
+      "source_path": "microsoft-edge/hosting/chakra-hosting/jsvarianttovalue-function.md",
       "redirect_url": "/archive/microsoft-edge/legacy/developer/index",
       "redirect_document_id": false
     },
