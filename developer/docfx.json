@@ -49,11 +49,11 @@
         "devtools-guide/**.md": "devtools",
         "devtools-protocol/**.md": "devtools",
         "extensions/**.md": "extensions",
-        "hosting/**.md": "webview2",
+        "hosting/**.md": "webview",
         "performance-analysis/**.md": "devtools",
         "progressive-web-apps/**.md": "pwa",
         "webdriver/**.md": "webdriver",
-        "windows-runtime/**.md": "windows runtime"
+        "windows-runtime/**.md": "windows-integration"
       }
     },
     "template": [
