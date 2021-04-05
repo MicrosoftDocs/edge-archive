@@ -33,8 +33,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/archive/microsoft-edge/edgehtml/breadcrumbs/edge-developer-archive/toc.json",
-      "titleSuffix": "Microsoft Edge Development",
+      "breadcrumb_path": "/archive/microsoft-edge/legacy/breadcrumbs/toc.json",
+      "titleSuffix": "Legacy Microsoft Edge Development",
       "uhfHeaderId": "MSDocsHeader-Archive",
       "feedback_system": "GitHub",
       "extendBreadcrumb": true,
@@ -45,12 +45,15 @@
     },
     "fileMetadata": {
       "ms.technology": {
-        "devtools-guide-chromium/**.md": "devtools",
+        "dev-guide/**.md": "devtools",
+        "devtools-guide/**.md": "devtools",
         "devtools-protocol/**.md": "devtools",
-        "extensions-chromium/**.md": "extensions",
-        "webview2/**.md": "webview2",
-        "progressive-web-apps-chromium/**.md": "pwa",
-        "edgehtml/**.md": ""
+        "extensions/**.md": "extensions",
+        "hosting/**.md": "webview",
+        "performance-analysis/**.md": "devtools",
+        "progressive-web-apps/**.md": "pwa",
+        "webdriver/**.md": "webdriver",
+        "windows-runtime/**.md": "windows-integration"
       }
     },
     "template": [
