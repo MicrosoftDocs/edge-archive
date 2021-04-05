@@ -1,0 +1,65 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/**.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "microsoft-edge/**",
+          "**/includes/**"
+        ],
+        "src": "."
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg",
+          "**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "microsoft-edge/**",
+          "**/includes/**"
+        ],
+        "src": "."
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/archive/microsoft-edge/legacy/breadcrumbs/toc.json",
+      "titleSuffix": "Legacy Microsoft Edge Development",
+      "uhfHeaderId": "MSDocsHeader-Archive",
+      "feedback_system": "GitHub",
+      "extendBreadcrumb": true,
+      "is_archived": true,
+      "is_retired": true,
+      "ROBOTS": "NOINDEX,NOFOLLOW",
+      "docs_archive": "tool"
+    },
+    "fileMetadata": {
+      "ms.technology": {
+        "dev-guide/**.md": "devtools",
+        "devtools-guide/**.md": "devtools",
+        "devtools-protocol/**.md": "devtools",
+        "extensions/**.md": "extensions",
+        "hosting/**.md": "webview2",
+        "performance-analysis/**.md": "devtools",
+        "progressive-web-apps/**.md": "pwa",
+        "webdriver/**.md": "webdriver",
+        "windows-runtime/**.md": "windows runtime"
+      }
+    },
+    "template": [
+      "docs.html"
+    ],
+    "dest": "archive-template",
+    "markdownEngineName": "markdig"
+  }
+}
