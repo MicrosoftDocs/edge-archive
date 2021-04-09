@@ -1,4 +1,4 @@
-- name: Legacy Microsoft Edge documentation
+- name: Legacy Microsoft Edge developer documentation
   href: index.md
   items:
   - name: Legacy Dev guide
