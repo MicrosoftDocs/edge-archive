@@ -40,6 +40,8 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/archive/microsoft-edge/legacy/breadcrumb/toc.json",
+      "titleSuffix": "Legacy Microsoft Edge docs",
+      "uhfHeaderId": "MSDocsHeader-Archive",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
