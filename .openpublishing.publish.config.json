@@ -1,6 +1,20 @@
 {
   "docsets_to_publish": [
     {
+      "docset_name": "edge-archive",
+      "build_source_folder": "legacy",
+      "build_output_subfolder": "edge-archive",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "edge-developer-archive",
       "build_source_folder": "developer",
       "build_output_subfolder": "edge-developer",
@@ -15,9 +29,7 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "base_path": "/archive/microsoft-edge/legacy/developer",
-      "site_name": "Docs"
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
