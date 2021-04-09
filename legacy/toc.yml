@@ -1,0 +1,5 @@
+- name: Legacy Microsoft Edge documentation
+  href: index.yml
+  items: 
+  - name: Legacy Microsoft Edge developer documentation
+    href: ../developer/index.yml
