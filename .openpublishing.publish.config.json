@@ -21,9 +21,6 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "xref_query_tags": [
-        "/microsoft-edge"
-      ],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
