@@ -1,15 +1,15 @@
 ### YamlMime:Hub
 
 title: Legacy Microsoft Edge documentation
-summary: Explore Legacy Microsoft Edge documentation.  Learn to use Microsoft Edge by browsing documentation, tutorials, and samples for developers, administrators, and users.
+summary: Explore Legacy Microsoft Edge documentation.
 brand: m365
 metadata:
   title: Legacy Microsoft Edge documentation
-  description: Legacy Microsoft Edge information for developers, IT admins, and browser users; including DevTools, Extensions, PWAs, WebDriver, and more.
+  description: Legacy Microsoft Edge information for developers, IT admins, and browser users.
   ms.topic: hub-page
   author: MSEdgeTeam
   ms.author: msedgedevrel
-  ms.date: 04/09/2021
+  ms.date: 04/16/2021
 
 # highlightedContent section (optional)
 # Maximum of 8 items
