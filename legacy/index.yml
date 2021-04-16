@@ -59,19 +59,19 @@ conceptualContent:
   # summary:  # < 160 chars (optional)
   items:
     # Card
-    - title: Learn about Microsoft Edge in the enterprise
+    - title: Learn about Legacy Microsoft Edge in the enterprise
       links:
         - url: /deployedge/microsoft-edge-channels
           itemType: overview
-          text: Microsoft Edge channel overview
+          text: Legacy Microsoft Edge channel overview
         - url: /deployedge/edge-ie-mode
           itemType: reference
           text: Use enterprise features
     # Card
-    - title: Deploy and update Microsoft Edge
+    - title: Deploy and update Legacy Microsoft Edge
       links:
         - itemType: reference
-          text: Video - Deploy Microsoft Edge
+          text: Video - Deploy Legacy Microsoft Edge
           url: /deployedge/microsoft-edge-video-deploy
         - itemType: reference
           text: Deploy to Windows
@@ -80,16 +80,16 @@ conceptualContent:
           text: Deploy to macOS
           url: /intune/apps/apps-edge-macos
     # Card
-    - title: Configure Microsoft Edge
+    - title: Configure Legacy Microsoft Edge
       links:
         - itemType: reference
-          text: Configure Microsoft Edge on Windows and macOS
+          text: Configure Legacy Microsoft Edge on Windows and macOS
           url: /deployedge/configure-microsoft-edge
         - itemType: reference
-          text: Set Microsoft Edge as the default browser
+          text: Set Legacy Microsoft Edge as the default browser
           url: /deployedge/edge-default-browser
     # Card
-    - title: Manage security and privacy
+    - title: Legacy manage security and privacy
       links:
         - itemType: reference
           text: Security
@@ -98,7 +98,7 @@ conceptualContent:
           text: Privacy
           url: /deployedge/microsoft-edge-enterprise-privacy-settings
     # Card
-    - title: Policy reference
+    - title: Legacy Policy reference
       links:
         - itemType: reference
           text: Browser policy reference
@@ -115,15 +115,15 @@ conceptualContent:
         # - itemType: reference
         #   text: Troubleshoot Microsoft Edge
         #   url: /deployedge/microsoft-edge-troubleshooting
-    # Card
-    - title: Extensions for enterprise
-      links:
-        - itemType: reference
-          text: Match Patterns
-          url: /microsoft-edge/extensions-chromium/enterprise/match-patterns
-        - itemType: reference
-          text: Hosting and Updating
-          url: /microsoft-edge/extensions-chromium/enterprise/hosting-and-updating
+#     # Card
+#     - title: Extensions for enterprise
+#       links:
+#         - itemType: reference
+#           text: Match Patterns
+#           url: /microsoft-edge/extensions-chromium/enterprise/match-patterns
+#         - itemType: reference
+#           text: Hosting and Updating
+#           url: /microsoft-edge/extensions-chromium/enterprise/hosting-and-updating
 
 # additionalContent section (optional)
 # Card with links style
@@ -134,26 +134,26 @@ additionalContent:
       # summary: # < 160 chars (optional)
       items:
         # Card
-        - title: DevTools
+        - title: Legacy DevTools
           links:
-            - text: Developer guide
+            - text: Legacy Developer guide overview
               url: /archive/microsoft-edge/legacy/developer/dev-guide/index
-            - text: DevTools overview
+            - text: Legacy DevTools overview
               url: /archive/microsoft-edge/legacy/developer/devtools-guide/index
-            - text: DevTools Protocol (Chromium)
+            - text: Legacy DevTools Protocol overview
               url: /archive/microsoft-edge/legacy/developer/devtools-protocol/index
         # Card
-        - title: Extensions
+        - title: Legacy Extensions
           links:
-            - text: Extensions Overview
+            - text: Legacy Extensions Overview
               url: /archive/microsoft-edge/legacy/developer/extensions/index
         # Card
-        - title: Progressive Web Apps
+        - title: Legacy Progressive Web Apps
           links:
-            - text: Overview
+            - text: Legacy Progressive Web AppsOverview
               url: /archive/microsoft-edge/legacy/developer/progressive-web-apps/index
         # Card
-        - title: WebView
+        - title: Legacy WebView
           links:
-            - text: Overview
+            - text: Legacy WebView Overview
               url: /archive/microsoft-edge/legacy/developer/hosting/webview/index
