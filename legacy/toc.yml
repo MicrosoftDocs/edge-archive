@@ -1,6 +1,6 @@
 - name: Legacy Microsoft Edge documentation
-  href: index.yml
+  href: index
   expanded: true
   items: 
   - name: Legacy Microsoft Edge developer documentation
-    href: /archive/microsoft-edge/legacy/developer/index.yml
+    href: /archive/microsoft-edge/legacy/developer/index
