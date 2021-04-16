@@ -4,7 +4,7 @@
       {
         "files": [
           "**/*.md",
-          "**/*.yml"
+          "**/**.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -17,7 +17,8 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
-        ]
+        ],
+        "src": "."
       }
     ],
     "resource": [
@@ -33,18 +34,27 @@
           "_themes.pdf/**",
           "**/docfx.json",
           "_repo.en-us/**"
-        ]
+        ],
+        "src": "."
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/archive/microsoft-edge/legacy/breadcrumb/toc.json",
+      "titleSuffix": "Legacy Microsoft Edge docs",
+      "uhfHeaderId": "MSDocsHeader-Archive",
+      "feedback_system": "None",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "is_archived": true,
+      "is_retired": true,
+      "ROBOTS": "NOINDEX,NOFOLLOW",
+      "docs_archive": "tool"
     },
     "fileMetadata": {},
-    "template": [],
+    "template": [
+      "docs.html"
+    ],
     "dest": "edge-archive",
     "markdownEngineName": "markdig"
   }
