@@ -3,8 +3,9 @@
   expanded: true
   items: 
     - name: Legacy Microsoft Edge developer documentation
-      href: index.md
       items: 
+        - name: Overview
+          href: index.md
         - name: Legacy Dev guide
           items: 
             - name: Dev guide (EdgeHtml) overview
