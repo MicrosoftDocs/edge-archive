@@ -9,7 +9,7 @@ metadata:
   ms.topic: hub-page
   author: MSEdgeTeam
   ms.author: msedgedevrel
-  ms.date: 04/16/2021
+  ms.date: 04/19/2021
 
 # highlightedContent section (optional)
 # Maximum of 8 items
@@ -50,71 +50,71 @@ metadata:
 #      # url: /microsoft-edge/index#microsoft-edge-for-developers #alt-link
 
 # conceptualContent section (optional)
-conceptualContent:
+# conceptualContent:
 # itemType: architecture | concept | deploy | download | 
 #           get-started | how-to-guide | learn | overview | 
 #           quickstart | reference | tutorial | video | 
 #           whats-new
-  title: Legacy Microsoft Edge for Enterprise # < 60 chars (optional)
-  # summary:  # < 160 chars (optional)
-  items:
-    # Card
-    - title: Learn about Legacy Microsoft Edge in the enterprise
-      links:
-        - url: /deployedge/microsoft-edge-channels
-          itemType: overview
-          text: Legacy Microsoft Edge channel overview
-        - url: /deployedge/edge-ie-mode
-          itemType: reference
-          text: Use enterprise features
-    # Card
-    - title: Deploy and update Legacy Microsoft Edge
-      links:
-        - itemType: reference
-          text: Video - Deploy Legacy Microsoft Edge
-          url: /deployedge/microsoft-edge-video-deploy
-        - itemType: reference
-          text: Deploy to Windows
-          url: /configmgr/apps/deploy-use/deploy-edge
-        - itemType: reference
-          text: Deploy to macOS
-          url: /intune/apps/apps-edge-macos
-    # Card
-    - title: Configure Legacy Microsoft Edge
-      links:
-        - itemType: reference
-          text: Configure Legacy Microsoft Edge on Windows and macOS
-          url: /deployedge/configure-microsoft-edge
-        - itemType: reference
-          text: Set Legacy Microsoft Edge as the default browser
-          url: /deployedge/edge-default-browser
-    # Card
-    - title: Legacy manage security and privacy
-      links:
-        - itemType: reference
-          text: Security
-          url: /deployedge/ms-edge-security-for-business
-        - itemType: reference
-          text: Privacy
-          url: /deployedge/microsoft-edge-enterprise-privacy-settings
-    # Card
-    - title: Legacy Policy reference
-      links:
-        - itemType: reference
-          text: Browser policy reference
-          url: /deployedge/microsoft-edge-policies
-        - itemType: reference
-          text: Update policy reference
-          url: /deployedge/microsoft-edge-update-policies
-    # Card
-    - title: Engage with enterprise community
-      links:
-        - itemType: reference
-          text: Enterprise tech community (Insider Focused)
-          url: https://techcommunity.microsoft.com/t5/Enterprise/bd-p/EdgeInsiderEnterprise
-        # - itemType: reference
-        #   text: Troubleshoot Microsoft Edge
-        #   url: /deployedge/microsoft-edge-troubleshooting
+#   title: Legacy Microsoft Edge for Enterprise # < 60 chars (optional)
+#   # summary:  # < 160 chars (optional)
+#   items:
+#     # Card
+#     - title: Learn about Legacy Microsoft Edge in the enterprise
+#       links:
+#         - url: /deployedge/microsoft-edge-channels
+#           itemType: overview
+#           text: Legacy Microsoft Edge channel overview
+#         - url: /deployedge/edge-ie-mode
+#           itemType: reference
+#           text: Use enterprise features
+#     # Card
+#     - title: Deploy and update Legacy Microsoft Edge
+#       links:
+#         - itemType: reference
+#           text: Video - Deploy Legacy Microsoft Edge
+#           url: /deployedge/microsoft-edge-video-deploy
+#         - itemType: reference
+#           text: Deploy to Windows
+#           url: /configmgr/apps/deploy-use/deploy-edge
+#         - itemType: reference
+#           text: Deploy to macOS
+#           url: /intune/apps/apps-edge-macos
+#     # Card
+#     - title: Configure Legacy Microsoft Edge
+#       links:
+#         - itemType: reference
+#           text: Configure Legacy Microsoft Edge on Windows and macOS
+#           url: /deployedge/configure-microsoft-edge
+#         - itemType: reference
+#           text: Set Legacy Microsoft Edge as the default browser
+#           url: /deployedge/edge-default-browser
+#     # Card
+#     - title: Legacy manage security and privacy
+#       links:
+#         - itemType: reference
+#           text: Security
+#           url: /deployedge/ms-edge-security-for-business
+#         - itemType: reference
+#           text: Privacy
+#           url: /deployedge/microsoft-edge-enterprise-privacy-settings
+#     # Card
+#     - title: Legacy Policy reference
+#       links:
+#         - itemType: reference
+#           text: Browser policy reference
+#           url: /deployedge/microsoft-edge-policies
+#         - itemType: reference
+#           text: Update policy reference
+#           url: /deployedge/microsoft-edge-update-policies
+#     # Card
+#     - title: Engage with enterprise community
+#       links:
+#         - itemType: reference
+#           text: Enterprise tech community (Insider Focused)
+#           url: https://techcommunity.microsoft.com/t5/Enterprise/bd-p/EdgeInsiderEnterprise
+#         # - itemType: reference
+#         #   text: Troubleshoot Microsoft Edge
+#         #   url: /deployedge/microsoft-edge-troubleshooting
 #     # Card
 #     - title: Extensions for enterprise
 #       links:
