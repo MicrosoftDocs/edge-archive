@@ -1,19 +1,19 @@
 ---
-description: Legacy Microsoft Edge documentation and content for Microsoft Edge (EdgeHTML).
-title: Legacy Microsoft Edge documentation
+description: Legacy Microsoft Edge developer documentation and content for Microsoft Edge (EdgeHTML).
+title: Legacy Microsoft Edge developer documentation
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 04/02/2021
+ms.date: 04/19/2021
 ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: devtools
 keywords: microsoft edge, web development, f12 tools, devtools
 ---
-# Legacy Microsoft Edge documentation  
+# Legacy Microsoft Edge developer documentation  
 
 Thank you for your interest in Microsoft Edge.  The following article summarizes content for the legacy product, which is no longer being updated.  The new Microsoft Edge content replaces the content for the legacy product and is marked as recommended in the following tables.  
 
-## New Microsoft Edge documentation  
+## New Microsoft Edge developer documentation  
 
 | Feature | Details |  
 |:--- |:--- |  
@@ -25,7 +25,7 @@ Thank you for your interest in Microsoft Edge.  The following article summarizes
 | [Interoperability (Site compatibility)][WebPlatformSiteImpactingChanges] \(recommended\) | Provides a summary of high-impact changes that may impact site compatibility. |  
 | [WebDriver][WebdriverChromiumIndex] \(recommended\) | Learn how to test your website or app in Microsoft Edge or automate the browser with WebDriver. |  
 
-## Legacy Microsoft Edge documentation  
+## Legacy Microsoft Edge developer documentation  
 
 <!--  This is deprecated and legacy content.  For new content, navigate to the associated [Chromium category](#new-microsoft-edge-documentation).  -->  
 
