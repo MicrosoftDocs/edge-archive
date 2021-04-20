@@ -29,7 +29,9 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "v-jomar7@microsoft.com"
+  ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/edge-archive",
@@ -51,9 +53,19 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "targets": {},
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Intellisense",
+      "Pdf"
+    ]
+  },
+  "need_generate_pdf_url_template": true,
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "docs_build_engine": {
     "name": "docfx_v3"
   }
