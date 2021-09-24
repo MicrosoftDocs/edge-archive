@@ -1,4 +1,4 @@
----
+﻿---
 description: Learn how the Payment Request API enables Microsoft Edge to act as an intermediary between merchants, consumers, and consumer payment methods stored in the cloud.
 title: Payment Request API - Dev guide
 author: MSEdgeTeam
@@ -15,7 +15,7 @@ ROBOTS: NOINDEX,NOFOLLOW
 > [!NOTE]
 > This article describes the workflow supported in the [legacy version of Microsoft Edge][MicrosoftSupport44533505].  Microsoft Edge \(Chromium\) supports the Payment Request API with a different implementation based on the Chromium project.  
 
-E-commerce sales continue growing at a rapid pace.  According to [eMarketer](https://www.emarketer.com), by 2018 digital sales are forecasted to increase by 23% from the levels measured in 2013.  While consumers and businesses enjoy the convenience of e-commerce sales, challenges remain.  Today each e-commerce website owner needs to invest time to develop high quality payment checkout flows and validation rules.  Consumers need to navigate different payment checkout flows and re-enter the same payment and shipping information on every site where they shop.  This can be time consuming and frustrating for consumers, leading to a high rate of shopping cart abandonment and decreased sales for merchants.  Merchants [estimate](http://baymard.com/lists/cart-abandonment-rate) between 60% and 70% of shopping carts are abandoned.  
+E-commerce sales continue growing at a rapid pace.  According to [eMarketer](https://www.emarketer.com), by 2018 digital sales are forecasted to increase by 23% from the levels measured in 2013.  While consumers and businesses enjoy the convenience of e-commerce sales, challenges remain.  Today each e-commerce website owner needs to invest time to develop high quality payment checkout flows and validation rules.  Consumers need to navigate different payment checkout flows and re-enter the same payment and shipping information on every site where they shop.  This can be time consuming and frustrating for consumers, leading to a high rate of shopping cart abandonment and decreased sales for merchants.  Merchants [estimate](https://baymard.com/lists/cart-abandonment-rate) between 60% and 70% of shopping carts are abandoned.  
 
 The [Payment Request API](https://w3.org/TR/payment-request) standardizes the payment checkout process.  This API requires less customization for web developers and provides a faster, more consistent, and therefore, less confusing experience for consumers.  Because consumers can select payment instruments and shipping addresses from their Microsoft account, they are required to enter less data to complete purchases which reduces the time and data entry required to complete a payment.  
 

@@ -1,4 +1,4 @@
----
+﻿---
 description: Microsoft Edge DevTools Protocol Version 0.2 supports the following tooling clients.
 title: Microsoft Edge DevTools Protocol Version 0.2 Clients (EdgeHTML)
 author: MSEdgeTeam
@@ -79,7 +79,7 @@ To get started:
                 "name": "Launch localhost",
                 "type": "edge",
                 "request": "launch",
-                "url": "http://localhost/mypage.html",
+                "url": "https://localhost/mypage.html",
                 "webRoot": "${workspaceFolder}/wwwroot"
             }
         ]

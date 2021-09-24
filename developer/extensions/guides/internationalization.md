@@ -1,4 +1,4 @@
----
+﻿---
 description: Make your extension accessible for different languages and test your language strings with the internationalization guide.
 title: Extensions - Internationalization
 author: MSEdgeTeam
@@ -38,5 +38,5 @@ By using the [NavigatorLanguage.language](https://developer.mozilla.org/docs/Web
 
 Click the button in the CodePen below to see the display language of your browser.
 
-<iframe height='300' scrolling='no' title='Get locale' src='//codepen.io/MSEdgeDev/embed/VaRWwR/?height=300&theme-id=23761&default-tab=result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/MSEdgeDev/pen/VaRWwR/'>Get locale</a>by MSEdgeDev (<a href='http://codepen.io/MSEdgeDev'>@MSEdgeDev</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='300' scrolling='no' title='Get locale' src='//codepen.io/MSEdgeDev/embed/VaRWwR/?height=300&theme-id=23761&default-tab=result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/MSEdgeDev/pen/VaRWwR/'>Get locale</a>by MSEdgeDev (<a href='https://codepen.io/MSEdgeDev'>@MSEdgeDev</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>

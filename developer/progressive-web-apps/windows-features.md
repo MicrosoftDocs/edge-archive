@@ -1,4 +1,4 @@
----
+﻿---
 description: Progressively enhance your PWA for Windows with native app features
 title: Tailor your PWA (EdgeHTML) for Windows
 author: MSEdgeTeam
@@ -51,7 +51,7 @@ Set up your Windows app development environment in Visual Studio.
 1.  In the manifest designer **Application** panel, enter the URL of your PWA as the `Start page`.
     
     > [!NOTE]
-    > Service workers are supported for all https \(secure, remote\) urls specified as the `StartPage`.  Service workers are not supported by default for web apps that specify a local start page.  To enable service worker support for these cases, add an explicit [ApplicationContentUriRules](#set-application-content-uri-rules-acurs) entry to the manifest, for example: `<uap:Rule Match="http://web-platform.test/" Type="include" uap5:ServiceWorker="true"/>`  
+    > Service workers are supported for all https \(secure, remote\) urls specified as the `StartPage`.  Service workers are not supported by default for web apps that specify a local start page.  To enable service worker support for these cases, add an explicit [ApplicationContentUriRules](#set-application-content-uri-rules-acurs) entry to the manifest, for example: `<uap:Rule Match="https://web-platform.test/" Type="include" uap5:ServiceWorker="true"/>`  
     
     ![Application panel of package.appxmanifest designer](media/vs-manifest-application.png)  
     
@@ -63,8 +63,8 @@ Set up your Windows app development environment in Visual Studio.
     
     This generates the basic visual assets for installing, running, launching, and distributing your app in the store.  
     If you see any red \(`X`\) errors indicating missing images, you are able to click on the **...** buttons to manually select a file from the generated images.  
-1.  In the manifest designer **Content URIs** panel, replace `http://example.com` with the location of your PWA \(such that `Rule` = `include` and `WinRT Access` = `All`\).  
-    This grants your PWA permission to send native Windows Runtime \(WinRT\) API requests when running as a Windows 10 app, which is covered a bit later.   If your actual PWA does not require WinRT access, you are able to switch the `WinRT Access` value to `None`.  Either way, be sure to sub out the default `http://example.com` string with the URI of your PWA, or your app is not able to properly load at runtime.  
+1.  In the manifest designer **Content URIs** panel, replace `https://example.com` with the location of your PWA \(such that `Rule` = `include` and `WinRT Access` = `All`\).  
+    This grants your PWA permission to send native Windows Runtime \(WinRT\) API requests when running as a Windows 10 app, which is covered a bit later.   If your actual PWA does not require WinRT access, you are able to switch the `WinRT Access` value to `None`.  Either way, be sure to sub out the default `https://example.com` string with the URI of your PWA, or your app is not able to properly load at runtime.  
     You are ready to run and debug your PWA as a Windows 10 app.  If you are using a localhost site to step through this guide, make sure it is running.  Then,  
 1.  Build \(`Ctrl`+`Shift`+`F5`\) and Run \(`F5`\) your PWA project.  Your website should now launch in a standalone app window.  Not only is it a hosted web app; it is running as a Progressive Web App installed on Windows 10!  
     

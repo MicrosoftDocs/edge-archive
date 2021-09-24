@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: 88825563-5f5d-421d-861b-7cec01277dec
 description: Learn how the Web Authentication API can enable web applications to use Windows Hello and FIDO2 for user authentication.
 title: Web Authentication - Dev guide  
@@ -287,4 +287,4 @@ A few things to note when using the Windows Hello authenticator:
 
 ## Specification  
 
-[Web Authentication: An API for accessing Public Key Credentials](http://w3c.github.io/webauthn)  
+[Web Authentication: An API for accessing Public Key Credentials](https://w3c.github.io/webauthn)  

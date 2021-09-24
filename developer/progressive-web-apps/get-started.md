@@ -1,4 +1,4 @@
----
+﻿---
 description: This guide gives you an overview of PWA basics and tools for building progressive web apps on Windows.
 title: Get started with Progressive Web Apps
 author: MSEdgeTeam
@@ -38,7 +38,7 @@ For the sake of simplicity, use the Visual Studio [Node.js and Express app][Visu
     
     ![Selecting the Node.js Express 4 project template in Visual Studio][ImageVsNodejsExpressTemplate]  
     
-1.  Once your new project loads, choose **Build** \(`Ctrl`+`Shift`+`B`\) and **Start Debugging** \(`F5`\).  Verify that your `index.html` file loads when you browse to `http://localhost:1337`.  
+1.  Once your new project loads, choose **Build** \(`Ctrl`+`Shift`+`B`\) and **Start Debugging** \(`F5`\).  Verify that your `index.html` file loads when you browse to `https://localhost:1337`.  
     
     ![Running your new site on localhost][ImageVsNodejsExpressIndex]  
 
@@ -115,7 +115,7 @@ In addition, use [HTTPS](#https), [service workers](#service-workers), and compl
 
 If you [publish this web app as a live site][VisualStudioNodejsTutorialPublishAzureAppService] \(for example, by setting up an [Azure free account][AzureCreateFreeAccount]\), you must ensure your server is configured for HTTPS.  If you use the [Microsoft Azure App Service][AzureWebApps] to host your site, it is served over HTTPS by default.  
 
-For this guide, continue using `http://localhost` as a placeholder for a live site served over `https://`.  
+For this guide, continue using `https://localhost` as a placeholder for a live site served over `https://`.  
 
 ### Service Workers  
 
@@ -156,7 +156,7 @@ For this tutorial, use the Offline page service worker script on [PWA Builder][P
     ```html
     <!DOCTYPE html>
     
-    <html xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="https://www.w3.org/1999/xhtml">
     <head>
         <meta charset="utf-8" />
         <title>Offline mode</title>
@@ -194,7 +194,7 @@ For this tutorial, use the Offline page service worker script on [PWA Builder][P
         
 1.  Time to try your PWA as an offline app!  In Visual Studio, **Stop Debugging** \(`Shift`+`F5`\) your web app, then open Microsoft Edge \(or refresh\) to the localhost address of your website.  It should now load the `offline.html` page \(thanks to your service worker and offline cache\)!  
     
-    ![offline.html from http://localhost:1337 loaded in Microsoft Edge][ImageOfflineHtml]  
+    ![offline.html from https://localhost:1337 loaded in Microsoft Edge][ImageOfflineHtml]  
 
 ## Add push notifications  
 
@@ -392,7 +392,7 @@ self.addEventListener('notificationclick', function (event) {
     }).then(function (clientList) {
         for (var i = 0; i < clientList.length; i++) {
             var client = clientList[i];
-            if (client.url == 'http://localhost:1337/' && 'focus' in client)
+            if (client.url == 'https://localhost:1337/' && 'focus' in client)
                 return client.focus();
         }
         if (clients.openWindow)

@@ -1,4 +1,4 @@
----
+﻿---
 description: Use the Microsoft Edge DevTools Protocol to inspect and debug the Microsoft Edge (EdgeHTML) browser.
 title: Microsoft Edge DevTools Protocol
 author: MSEdgeTeam
@@ -36,7 +36,7 @@ Here's how to attach a custom tooling client to the DevTools Server in Microsoft
 2. Use this [HTTP endpoint](0.2/http.md) to get a list of attachable page targets:
 
     ```http
-    http://localhost:9222/json/list
+    https://localhost:9222/json/list
     ```
 
 3. Connect to the listed `webSocketDebuggerUrl` of the desired page to issue further [protocol commands](0.2/domains/index.md) and receive event messages through the devtools socket server.
