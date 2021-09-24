@@ -1,4 +1,4 @@
----
+﻿---
 description: This page provides an overview of what's new in EdgeHTML 13.
 title: New features and APIs in EdgeHTML 13
 author: MSEdgeTeam

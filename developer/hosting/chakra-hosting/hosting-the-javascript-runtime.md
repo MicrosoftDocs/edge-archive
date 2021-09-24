@@ -1,4 +1,4 @@
----
+﻿---
 description: "Use the standards-based Chakra JavaScript engine to add scripting capabilities to your Windows application."
 title: "Hosting the JavaScript Runtime"
 ms.prod: microsoft-edge

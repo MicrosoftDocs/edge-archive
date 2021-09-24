@@ -1,4 +1,4 @@
----
+﻿---
 description: Provide a seamless user experience on sites requiring Adobe Flash.
 title: Flash - Dev guide
 author: MSEdgeTeam

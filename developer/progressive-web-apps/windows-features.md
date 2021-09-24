@@ -1,4 +1,4 @@
----
+﻿---
 description: Progressively enhance your PWA for Windows with native app features
 title: Tailor your PWA (EdgeHTML) for Windows
 author: MSEdgeTeam

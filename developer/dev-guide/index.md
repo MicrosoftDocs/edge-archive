@@ -1,4 +1,4 @@
----
+﻿---
 description: This guide provides an overview of the developer features and standards included in Microsoft Edge.
 title: What's new in EdgeHTML 18
 author: MSEdgeTeam

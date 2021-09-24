@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: 5eefa3d8-8626-4486-bd90-1361400d6468
 description: Learn about how to package up your Microsoft Edge extension manually and test it to see if it's packaged correctly.
 title: Creating and testing extension packages
@@ -43,9 +43,9 @@ Developers can use the following template for their AppXManifest.xml file:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <Package
-  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
-  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
-  xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3"
+  xmlns="https://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:uap="https://schemas.microsoft.com/appx/manifest/uap/windows10"
+  xmlns:uap3="https://schemas.microsoft.com/appx/manifest/uap/windows10/3"
   IgnorableNamespaces="uap3">
 
   <Identity
