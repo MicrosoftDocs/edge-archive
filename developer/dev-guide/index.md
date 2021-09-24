@@ -1,4 +1,4 @@
----
+﻿---
 description: This guide provides an overview of the developer features and standards included in Microsoft Edge.
 title: What's new in EdgeHTML 18
 author: MSEdgeTeam
@@ -128,7 +128,7 @@ void OnWebViewControlNewWindowRequested(WebViewControl sender, WebViewControlNew
     }
 }
 
-String htmlContent = "<html><script>window.open('http://mydomain.com')</script><body></body></html>";
+String htmlContent = "<html><script>window.open('https://mydomain.com')</script><body></body></html>";
 
 webView.NavigateToString(htmlContent);
 ```  

@@ -1,4 +1,4 @@
----
+﻿---
 description: "Use the standards-based Chakra JavaScript engine to add scripting capabilities to your Windows application."
 title: "Hosting the JavaScript Runtime"
 ms.prod: microsoft-edge
@@ -109,7 +109,7 @@ JsProjectWinRTNamespace(L"Windows.Foundation");
 JsProjectWinRTNamespace(L"Windows.Web");
 
 // Get content from an Uri.
-JsRunScript(L"var uri = new Windows.Foundation.Uri(\"http://somedatasource.com\"); " \
+JsRunScript(L"var uri = new Windows.Foundation.Uri(\"https://somedatasource.com\"); " \
     L"var httpClient = new Windows.Web.Http.HttpClient();" \
     L"httpClient.getStringAsync(uri).done(function (content) { " \
     L"    // do something with the string content " \

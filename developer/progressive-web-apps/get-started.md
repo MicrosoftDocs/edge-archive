@@ -1,4 +1,4 @@
----
+﻿---
 description: This guide gives you an overview of PWA basics and tools for building progressive web apps on Windows.
 title: Get started with Progressive Web Apps
 author: MSEdgeTeam
@@ -156,7 +156,7 @@ For this tutorial, use the Offline page service worker script on [PWA Builder][P
     ```html
     <!DOCTYPE html>
     
-    <html xmlns="http://www.w3.org/1999/xhtml">
+    <html xmlns="https://www.w3.org/1999/xhtml">
     <head>
         <meta charset="utf-8" />
         <title>Offline mode</title>

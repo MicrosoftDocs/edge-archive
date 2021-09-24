@@ -1,4 +1,4 @@
----
+﻿---
 description: Using Windows Runtime Asynchronous Methods
 title: "Using Windows Runtime Asynchronous Methods"
 ms.custom: ""
@@ -90,4 +90,4 @@ For more information about asynchronous programming, see [Asynchronous Programmi
 [PreviousVersionsWindowsAppsHh700330]: /previous-versions/windows/apps/hh700330(v=win.10) "Asynchronous programming in JavaScript (HTML) | Microsoft Docs"
 [PreviousVersionsWindowsAppsHr701079]: /previous-versions/windows/apps/hh701079(v=win.10) "Promise.done method | Microsoft Docs"  
 
-[CommonjsWikiPromises]: http://wiki.commonjs.org/wiki/Promises "Promises | CommonJS Spec Wiki"  
+[CommonjsWikiPromises]: https://wiki.commonjs.org/wiki/Promises "Promises | CommonJS Spec Wiki"  

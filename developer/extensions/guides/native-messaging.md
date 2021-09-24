@@ -1,4 +1,4 @@
----
+﻿---
 description: Learn about how you are able to use native messaging to have your extension communicate with a companion UWP app.
 title: Native messaging | Extensions
 author: MSEdgeTeam
@@ -273,13 +273,13 @@ To create your extension with native messaging in Visual Studio:
     
     ```xml
     <Package
-    xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" 
-    xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" 
-    xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" 
-    xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" 
-    xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3"
+    xmlns="https://schemas.microsoft.com/appx/manifest/foundation/windows10" 
+    xmlns:rescap="https://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" 
+    xmlns:mp="https://schemas.microsoft.com/appx/2014/phone/manifest" 
+    xmlns:uap="https://schemas.microsoft.com/appx/manifest/uap/windows10" 
+    xmlns:uap3="https://schemas.microsoft.com/appx/manifest/uap/windows10/3"
     IgnorableNamespaces="uap uap3 mp rescap build" 
-    xmlns:build="http://schemas.microsoft.com/developer/appx/2015/build">
+    xmlns:build="https://schemas.microsoft.com/developer/appx/2015/build">
     
     <Dependencies>
         <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.15063.0" MaxVersionTested="10.0.15063.0" />
@@ -341,7 +341,7 @@ If you want to add a Desktop Bridge component to your package, you must create a
     ```xml
     <Extensions>
     <desktop:Extension Category="windows.fullTrustProcess"Executable="Win32\PasswordInputProtection.exe"
-    xmlns:desktop="http://schemas.microsoft.com/appx/manifest/desktop/windows10" />
+    xmlns:desktop="https://schemas.microsoft.com/appx/manifest/desktop/windows10" />
     </Extensions>
     ```  
     

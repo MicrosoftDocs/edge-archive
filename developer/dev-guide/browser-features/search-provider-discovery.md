@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: f74760f5-061c-494d-b096-9fb6ecb71a16
 description: If you are a search provider, see how to ensure that Microsoft Edge supports your service.
 title: Search provider discovery - Dev guide
@@ -29,7 +29,7 @@ The following resources must be specified as `https` URLs to enable Microsoft Ed
     
     ```html
     <?xml version="1.0" encoding="UTF-8"?> 
-    <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <OpenSearchDescription xmlns="https://a9.com/-/spec/opensearch/1.1/">
         <ShortName>Contoso Search</ShortName>
         <Url type="text/html" template="https://www.contoso.com/?query={searchTerms}"/> 
     </OpenSearchDescription>

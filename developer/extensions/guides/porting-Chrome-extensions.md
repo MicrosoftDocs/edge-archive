@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: 1319a070-c6e3-4592-9f4b-40ce1575851f
 description: Learn how to port your Chrome extension to Microsoft Edge using the Microsoft Edge Extension Toolkit.
 title: Porting Chrome extensions
@@ -45,4 +45,4 @@ The following instructions detail how to convert your Chrome extension to run on
 
 You can now exit out of the toolkit and load your extension in Microsoft Edge! 
 
-You can search for known platform issues with the [EdgeHTML issue tracker](http://issues.microsoftedge.com). If you think you've found something new, [open an issue](https://developer.microsoft.com/microsoft-edge/platform/issues/new/)!
+You can search for known platform issues with the [EdgeHTML issue tracker](https://issues.microsoftedge.com). If you think you've found something new, [open an issue](https://developer.microsoft.com/microsoft-edge/platform/issues/new/)!
