@@ -1,4 +1,4 @@
----
+﻿---
 description: Learn how the Payment Request API enables Microsoft Edge to act as an intermediary between merchants, consumers, and consumer payment methods stored in the cloud.
 title: Payment Request API - Dev guide
 author: MSEdgeTeam

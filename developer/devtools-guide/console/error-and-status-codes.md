@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: 961ca575-6b93-4367-a72b-f3f02e5b9568
 description: Reference to common Console codes and suggested fixes
 title: DevTools - Console error and status codes

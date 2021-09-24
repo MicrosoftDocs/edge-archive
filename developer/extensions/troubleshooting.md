@@ -1,4 +1,4 @@
----
+﻿---
 ms.assetid: 8b7f362f-da09-43db-8a42-cfa128c1808c
 description: Get the answers to common questions you may have while loading unpacked extensions.
 title: Extensions - Troubleshooting
@@ -26,7 +26,7 @@ Error message | Details
 :--------- | :------------
 Manifest parsing error: Missing or malformed manifest file. | Either the file `"manifest.json"` was not found in the specified location or there is something wrong with the file. To resolve the issue, ensure that the specified folder contains the manifest at the top-level, and double-check your commas, quotes and brackets.
 Manifest parsing error: `"content_scripts"` must define an array. | The field `"content_scripts"` should be an array. To resolve the issue, double-check your syntax. For example: `"content_scripts": [{"matches": [...],"css": [...],"js": [...] }]`
-Manifest parsing error: `"content_scripts"` must define value for `"matches"` property. | The property `"matches"` is required. To resolve the issue, specify the property’s value with an array of strings. For example: `"content_scripts": [ {... "matches": ["http://www.bing.com"] ...} ]`
+Manifest parsing error: `"content_scripts"` must define value for `"matches"` property. | The property `"matches"` is required. To resolve the issue, specify the property’s value with an array of strings. For example: `"content_scripts": [ {... "matches": ["https://www.bing.com"] ...} ]`
 Manifest parsing error: `"content_scripts"` must reference at least one .css or .js file. | At least one property `"css"` or `"js"` is required. To resolve the issue, specify the property’s value with an array of strings. For example: `"content_scripts": [ { ... "js": ["myScript1.js", "myScript2.js"] ...} ]`
 Manifest parsing error: `"<field>"` must define value for "<property>" property. | The property `<property>` for the field `<field>` is required. To resolve the issue, specify a valid value for `<property>`.
 Manifest parsing error: `"content_scripts"` references invalid value for "run_at" field. | The property `"run_at"` specifies an unknown value. To resolve the issue, specify one of `"document_start"`, `"document_end"` or `"document_idle"`. For example: `"content_scripts": [ {... "run_at": "document_start" ... } ]`

@@ -1,4 +1,4 @@
----
+﻿---
 description: This guide provides an overview of the developer features and standards included in EdgeHTML 15.
 title: New features and APIs in EdgeHTML 15
 author: MSEdgeTeam
