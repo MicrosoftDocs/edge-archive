@@ -5,8 +5,8 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 04/19/2021
 ms.topic: article
-ms.prod: microsoft-edge
-ms.technology: devtools
+ms.service: microsoft-edge
+ms.subservice: devtools
 keywords: microsoft edge, web development, f12 tools, devtools
 ---
 # Legacy Microsoft Edge developer documentation  
