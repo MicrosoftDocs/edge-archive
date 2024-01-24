@@ -3,8 +3,8 @@ description: Windows Runtime DateTime and TimeSpan Representations
 title: "Windows Runtime DateTime and TimeSpan Representations"
 ms.custom: ""
 ms.date: 11/03/2020
-ms.prod: microsoft-edge
-ms.technology: "windows-integration"
+ms.service: microsoft-edge
+ms.subservice: windows-integration
 ms.topic: "article"
 helpviewer_keywords: 
   - "JavaScript, Windows Runtime dates and times"
