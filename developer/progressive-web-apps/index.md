@@ -4,8 +4,8 @@ title: Progressive Web Apps (EdgeHTML) on Windows
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
-ms.technology: pwa
+ms.service: microsoft-edge
+ms.subservice: pwa
 keywords: progressive web apps, PWA, Edge, JavaScript, Windows, UWP, Microsoft Store
 ms.date: 04/02/2020
 ROBOTS: NOINDEX,NOFOLLOW
