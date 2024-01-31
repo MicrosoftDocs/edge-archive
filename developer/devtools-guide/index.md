@@ -4,8 +4,8 @@ title: Microsoft Edge (EdgeHTML) Developer Tools
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
-ms.technology: devtools
+ms.service: microsoft-edge
+ms.subservice: devtools
 keywords: microsoft edge, web development, f12 tools, devtools
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

@@ -4,8 +4,8 @@ title: Windows Runtime (WinRT) for JavaScript
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
-ms.technology: windows-integration
+ms.service: microsoft-edge
+ms.subservice: windows-integration
 keywords: Windows Runtime, WinRT, PWA, JavaScript
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

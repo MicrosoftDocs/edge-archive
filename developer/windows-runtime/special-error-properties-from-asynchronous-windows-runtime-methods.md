@@ -3,8 +3,8 @@ description: Special Error Properties from Asynchronous Windows Runtime Methods
 title: "Special Error Properties from Asynchronous Windows Runtime Methods"
 ms.custom: ""
 ms.date: 11/03/2020
-ms.prod: microsoft-edge
-ms.technology: "windows-integration"
+ms.service: microsoft-edge
+ms.subservice: windows-integration
 ms.topic: "article"
 ms.assetid: 45155584-06d8-4e7f-93a6-8564a93f643d
 caps.latest.revision: 4
