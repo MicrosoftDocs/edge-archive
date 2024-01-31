@@ -1,7 +1,7 @@
 ---
 description: "A function callback."
 title: "JsNativeFunction Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 56ef6cdf-4ca9-4f7c-b953-e661addb1a8e
 caps.latest.revision: 5

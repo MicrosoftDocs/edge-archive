@@ -1,7 +1,7 @@
 ---
 description: "A reference to a script context."
 title: "JsContextRef Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 8586bfcc-bb24-430d-a6f2-1a3b3e34ec2e
 caps.latest.revision: 6

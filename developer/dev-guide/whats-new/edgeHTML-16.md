@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.assetid: 476c4b7a-be24-434b-a051-83f19d741aaf
 keywords: edge, web development, html, css, javascript, developer
 ---

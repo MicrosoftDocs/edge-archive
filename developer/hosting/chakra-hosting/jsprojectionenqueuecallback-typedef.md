@@ -1,7 +1,7 @@
 ---
 description: "The application callback which is called by JsRT when a projection API is completed on a different thread than the original."
 title: "JsProjectionEnqueueCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 19c1cefb-a7be-4196-b780-9fe6adf35ba5
 caps.latest.revision: 4

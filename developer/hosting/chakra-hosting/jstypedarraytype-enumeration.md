@@ -1,7 +1,7 @@
 ---
 description: "The type of a typed JavaScript array."
 title: "JsTypedArrayType Enumeration | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 67f3e51c-acbb-4fff-a414-0868a0dd5051
 caps.latest.revision: 2

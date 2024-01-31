@@ -1,7 +1,7 @@
 ---
 description: "Converts the value to Boolean using standard JavaScript semantics."
 title: "JsConvertValueToBoolean Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsConvertValueToBoolean"

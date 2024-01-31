@@ -1,7 +1,7 @@
 ---
 description: "Gets the script context that the object belongs to."
 title: "JsGetContextOfObject Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "article"
 ms.assetid: cea6cdcd-790f-455c-af04-026af8ae2eb7
 caps.latest.revision: 3

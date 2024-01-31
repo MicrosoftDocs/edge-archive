@@ -3,7 +3,7 @@ description: JavaScript Representation of Windows Runtime Types
 title: "JavaScript Representation of Windows Runtime Types"
 ms.custom: ""
 ms.date: 10/30/2020
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.technology: "windows-integration"
 ms.topic: "article"
 helpviewer_keywords: 

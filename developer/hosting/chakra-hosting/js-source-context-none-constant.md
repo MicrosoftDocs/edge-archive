@@ -1,7 +1,7 @@
 ---
 description: "An empty source context."
 title: "JS_SOURCE_CONTEXT_NONE Constant | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JS_SOURCE_CONTEXT_NONE"

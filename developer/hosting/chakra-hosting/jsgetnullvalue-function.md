@@ -1,7 +1,7 @@
 ---
 description: "Gets the value of `null` in the current script context."
 title: "JsGetNullValue Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsGetNullValue"

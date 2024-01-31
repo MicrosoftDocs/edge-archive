@@ -1,7 +1,7 @@
 ---
 description: "A background work item callback."
 title: "JsBackgroundWorkItemCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: e6db52e1-830c-46a2-b9f9-cc2d450a1da8
 caps.latest.revision: 6

@@ -1,7 +1,7 @@
 ---
 description: "Sets an object's indexed properties to external data. The external data will be used as back store for the object's indexed properties and accessed like a typed array."
 title: "JsSetIndexedPropertiesToExternalData Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: cee2d86d-ed42-4acb-86ef-95a67e63d0d6
 caps.latest.revision: 2

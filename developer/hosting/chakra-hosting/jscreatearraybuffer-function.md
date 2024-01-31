@@ -1,7 +1,7 @@
 ---
 description: "Creates a JavaScript `ArrayBuffer` object."
 title: "JsCreateArrayBuffer Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: c9e74184-7dd9-41a7-a1fe-9575e1701392
 caps.latest.revision: 2

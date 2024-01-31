@@ -1,7 +1,7 @@
 ---
 description: "Gets the symbol associated with the property ID."
 title: "JsGetSymbolFromPropertyId Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 0e822cb4-ba9e-44df-bf3a-fae97c354daa
 caps.latest.revision: 2

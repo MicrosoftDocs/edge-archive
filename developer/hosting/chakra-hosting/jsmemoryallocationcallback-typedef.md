@@ -1,7 +1,7 @@
 ---
 description: "User implemented callback routine for memory allocation events."
 title: "JsMemoryAllocationCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 511babc7-3caa-4ee5-82a2-943bbd34db8d
 caps.latest.revision: 7

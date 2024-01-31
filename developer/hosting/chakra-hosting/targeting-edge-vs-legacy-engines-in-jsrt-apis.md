@@ -1,7 +1,7 @@
 ---
 description: "Learn how to target the different Windows 10 JavaScript engines. "
 title: "Targeting Microsoft Edge vs. Legacy engines in JsRT APIs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "article"
 ms.assetid: cbc7df6c-0bc9-48f5-b9ad-b9ed31c42f92
 caps.latest.revision: 7

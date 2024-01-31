@@ -1,7 +1,7 @@
 ---
 description: "Gets a property descriptor for an object's own property."
 title: "JsGetOwnPropertyDescriptor Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsGetOwnPropertyDescriptor"

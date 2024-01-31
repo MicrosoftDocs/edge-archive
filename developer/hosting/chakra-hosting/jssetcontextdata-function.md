@@ -1,7 +1,7 @@
 ---
 description: "Sets the internal data of JsrtContext."
 title: "JsSetContextData Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: be90aa6a-b001-4a6f-90c5-c2135e913be0
 caps.latest.revision: 4

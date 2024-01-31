@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: webview, windows 10 apps, uwp, edge
 ROBOTS: NOINDEX,NOFOLLOW
 ---

@@ -1,7 +1,7 @@
 ---
 description: "Retrieves an object's indexed properties external data information."
 title: "JsGetIndexedPropertiesExternalData Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 2c313163-3462-42fd-8dee-3dfb3ac7f43f
 caps.latest.revision: 2

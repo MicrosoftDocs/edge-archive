@@ -1,7 +1,7 @@
 ---
 description: "Sets a memory allocation callback for specified runtime."
 title: "JsSetRuntimeMemoryAllocationCallback Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetRuntimeMemoryAllocationCallback"

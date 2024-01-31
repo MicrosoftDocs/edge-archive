@@ -1,7 +1,7 @@
 ---
 description: "Creates a Javascript `DataView` object."
 title: "JsCreateDataView Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 161e59eb-d429-46f7-9a38-bbf2149ccf44
 caps.latest.revision: 2

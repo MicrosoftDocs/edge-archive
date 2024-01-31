@@ -1,7 +1,7 @@
 ---
 title: JavaScript version information
 description: Compare JavaScript support across Microsoft Edge, Microsoft Store apps, and Internet Explorer
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: language-reference
 author: MSEdgeTeam
 ms.author: msedgedevrel

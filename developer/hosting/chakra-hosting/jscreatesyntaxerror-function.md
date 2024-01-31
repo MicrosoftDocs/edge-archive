@@ -1,7 +1,7 @@
 ---
 description: "Creates a new JavaScript SyntaxError error object."
 title: "JsCreateSyntaxError Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsCreateSyntaxError"

@@ -1,7 +1,7 @@
 ---
 description: "A promise continuation callback."
 title: "JsPromiseContinuationCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 51a3fd02-9668-4cf7-bb0b-e1fd03b2528f
 caps.latest.revision: 3

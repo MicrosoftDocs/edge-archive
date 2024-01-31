@@ -1,7 +1,7 @@
 ---
 description: "Determines whether the runtime of the current context is in an exception state."
 title: "JsHasException Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsHasException"

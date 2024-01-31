@@ -1,7 +1,7 @@
 ---
 description: "Tests whether an object has a value at the specified index."
 title: "JsHasIndexedProperty Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsHasIndexedProperty"

@@ -1,7 +1,7 @@
 ---
 description: "Sets a callback function that is called by the runtime before garbage collection of an object."
 title: "JsSetObjectBeforeCollectCallback Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: ea2cbd94-d8b0-4fa9-a4a1-c75a4e338eaf
 caps.latest.revision: 3

@@ -1,7 +1,7 @@
 ---
 description: "Creates a JavaScript value that is a projection of the passed in `IInspectable` pointer."
 title: "JsInspectableToObject Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: dd0ad567-2ba8-4a63-bee4-2c6ff5ce9fa9
 caps.latest.revision: 2

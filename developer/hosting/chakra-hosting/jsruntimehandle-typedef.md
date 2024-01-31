@@ -1,7 +1,7 @@
 ---
 description: "A handle to a Chakra runtime."
 title: "JsRuntimeHandle Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 69e59bfd-9b0e-4710-9aa8-fbd6844171bc
 caps.latest.revision: 6

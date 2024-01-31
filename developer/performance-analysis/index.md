@@ -4,7 +4,7 @@ title: Performance analysis
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.assetid: 7a5f9fd0-90a9-43db-b271-178c06da5896
 keywords: edge, web development, html, css, javascript, developer
 ms.date: 12/15/2020
