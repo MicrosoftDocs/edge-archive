@@ -4,8 +4,8 @@ title: Microsoft Edge WebView for Windows 10 apps
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: reference
-ms.prod: microsoft-edge
-ms.technology: webview
+ms.service: microsoft-edge
+ms.subservice: webview
 keywords: x-ms-webview, MSHTMLWebViewElement, webview, windows 10 apps, uwp, edge
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW
