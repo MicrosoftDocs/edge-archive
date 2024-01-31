@@ -3,8 +3,8 @@ description: Error codes for Windows Runtime apps using JavaScript
 title: "Error codes for Windows Runtime apps using JavaScript"
 ms.custom: ""
 ms.date: 11/03/2020
-ms.prod: microsoft-edge
-ms.technology: "windows-integration"
+ms.service: microsoft-edge
+ms.subservice: windows-integration
 ms.topic: "article"
 f1_keywords:
   - "JavaScript, Windows Runtime error codes"
