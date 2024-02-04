@@ -1,7 +1,7 @@
 ---
 description: "An invalid runtime handle."
 title: "JS_INVALID_RUNTIME_HANDLE Constant | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JS_INVALID_RUNTIME_HANDLE"

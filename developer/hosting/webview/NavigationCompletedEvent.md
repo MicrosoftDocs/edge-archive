@@ -4,7 +4,7 @@ title: NavigationCompletedEvent object
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: webview, windows 10 apps, uwp, edge
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

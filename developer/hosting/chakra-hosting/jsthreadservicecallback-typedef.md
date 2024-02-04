@@ -1,7 +1,7 @@
 ---
 description: "A thread service callback."
 title: "JsThreadServiceCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: dbe67be5-418a-4f66-8b68-b38078a6d140
 caps.latest.revision: 6

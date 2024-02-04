@@ -4,7 +4,7 @@ title: What's new in EdgeHTML for developers - Dev guide
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer, what's new in edge, new APIs in edge, edgehtml, edgehtml preview builds
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

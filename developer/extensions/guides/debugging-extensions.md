@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, javascript, developer, debug, debugging
 ms.custom: seodec18
 ROBOTS: NOINDEX,NOFOLLOW

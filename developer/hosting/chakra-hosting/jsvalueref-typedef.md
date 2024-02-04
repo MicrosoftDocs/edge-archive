@@ -1,7 +1,7 @@
 ---
 description: "A reference to a JavaScript value."
 title: "JsValueRef Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 78a64aad-70b3-49b0-b961-6064eae19129
 caps.latest.revision: 6

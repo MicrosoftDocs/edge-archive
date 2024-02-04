@@ -1,7 +1,7 @@
 ---
 description: "Initializes the passed in `VARIANT` as a projection of a JavaScript value."
 title: "JsValueToVariant Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsValueToVariant"

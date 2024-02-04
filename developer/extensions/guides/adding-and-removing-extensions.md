@@ -4,7 +4,7 @@ title: Adding and removing extensions
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer, extension
 ms.custom: seodec18
 ms.date: 12/15/2020

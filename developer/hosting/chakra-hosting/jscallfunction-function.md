@@ -1,7 +1,7 @@
 ---
 description: "Invokes a function."
 title: "JsCallFunction Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsCallFunction"

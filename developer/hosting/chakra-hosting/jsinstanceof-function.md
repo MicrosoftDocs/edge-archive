@@ -1,7 +1,7 @@
 ---
 description: "Performs JavaScript `instanceof` operator test."
 title: "JsInstanceOf Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 94399a62-b996-4fd2-82ce-1c26e7a4da08
 caps.latest.revision: 6

@@ -1,7 +1,7 @@
 ---
 description: "Parses a serialized script and returns a function representing the script. Provides the ability to lazy load the script source only if/when it is needed."
 title: "JsParseSerializedScriptWithCallback Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 0a93ecfb-4b82-4a85-b24c-6816db2332ea
 caps.latest.revision: 5

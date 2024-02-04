@@ -1,7 +1,7 @@
 ---
 description: "A cookie that identifies a script for debugging purposes."
 title: "JsSourceContext Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 0ee67e5d-a66b-4d4f-ab30-4711ef25c091
 caps.latest.revision: 5

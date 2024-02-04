@@ -1,7 +1,7 @@
 ---
 description: "Stops profiling in the current context."
 title: "JsStopProfiling Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsStopProfiling"

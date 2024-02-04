@@ -1,7 +1,7 @@
 ---
 description: "Creates a number value from an `int` value."
 title: "JsIntToNumber Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 1393c4ac-7189-4e9c-8e54-b0e041c22112
 caps.latest.revision: 4

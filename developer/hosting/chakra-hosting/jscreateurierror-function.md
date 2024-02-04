@@ -1,7 +1,7 @@
 ---
 description: "Creates a new JavaScript URIError error object."
 title: "JsCreateURIError Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsCreateURIError"

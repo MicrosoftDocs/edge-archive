@@ -4,7 +4,7 @@ title: DevTools - Elements
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: microsoft edge, web development, f12 tools, devtools, elements, html, css, dom breakpoints, events, accessibility
 ms.custom: seodec18
 ms.date: 11/19/2020

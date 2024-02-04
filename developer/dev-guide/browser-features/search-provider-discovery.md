@@ -5,7 +5,7 @@ title: Search provider discovery - Dev guide
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

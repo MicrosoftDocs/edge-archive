@@ -1,7 +1,7 @@
 ---
 description: "Sets the current script context on the thread."
 title: "JsSetCurrentContext Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetCurrentContext"

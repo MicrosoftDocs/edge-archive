@@ -1,7 +1,7 @@
 ---
 description: "Compare two JavaScript values for equality."
 title: "JsEquals Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsEquals"

@@ -1,7 +1,7 @@
 ---
 description: "Releases a reference to a garbage collected object."
 title: "JsRelease Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsRelease"

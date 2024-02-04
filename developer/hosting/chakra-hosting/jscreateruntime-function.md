@@ -1,7 +1,7 @@
 ---
 description: "Creates a new runtime."
 title: "JsCreateRuntime Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsCreateRuntime"

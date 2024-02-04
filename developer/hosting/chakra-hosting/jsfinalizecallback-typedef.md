@@ -1,7 +1,7 @@
 ---
 description: "A finalizer callback."
 title: "JsFinalizeCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: aa7a0269-b9d4-4717-97ac-8da7eb6ced15
 caps.latest.revision: 6

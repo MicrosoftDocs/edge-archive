@@ -1,7 +1,7 @@
 ---
 description: "Set the value at the specified index of an object."
 title: "JsSetIndexedProperty Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetIndexedProperty"

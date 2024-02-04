@@ -1,7 +1,7 @@
 ---
 description: "A property identifier. "
 title: "JsPropertyIdRef Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 39976437-4e02-4f68-b473-94de209a73f1
 caps.latest.revision: 6

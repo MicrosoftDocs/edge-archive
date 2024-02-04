@@ -1,7 +1,7 @@
 ---
 description: "Returns a value that indicates whether script execution is disabled in the runtime."
 title: "JsIsRuntimeExecutionDisabled Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsIsRuntimeExecutionDisabled"

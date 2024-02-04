@@ -4,7 +4,7 @@ title: Get started with Progressive Web Apps
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: progressive web apps, PWA, Edge, Windows, PWABuilder, web manifest, service worker, push
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

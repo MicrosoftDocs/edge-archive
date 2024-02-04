@@ -1,7 +1,7 @@
 ---
 description: "Sets the prototype of an object."
 title: "JsSetPrototype Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 88e1e421-4ae5-4e3b-b377-19256cc80e9f
 caps.latest.revision: 4

@@ -1,7 +1,7 @@
 ---
 description: "Gets the type of property."
 title: "JsGetPropertyIdType Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 2b6e85ad-c630-4a07-a759-3b344d06faaa
 caps.latest.revision: 3

@@ -4,7 +4,7 @@ title: What's new in the Microsoft Edge DevTools
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: microsoft edge, web development, f12 tools, devtools, edgehtml 18
 ms.custom: RS5, seodec18
 ms.date: 12/02/2020

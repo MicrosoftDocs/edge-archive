@@ -1,7 +1,7 @@
 ---
 description: "Parses a serialized script and returns a function representing the script."
 title: "JsParseSerializedScript Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsParseSerializedScript"
