@@ -6,7 +6,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
 ms.service: microsoft-edge
-ms.technology: devtools
+ms.subservice: devtools
 keywords: edge, web development, html, css, javascript, developer, webdriver, selenium, testing
 ms.date: 11/19/2020
 ROBOTS: NOINDEX,NOFOLLOW

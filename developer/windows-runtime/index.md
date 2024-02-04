@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
 ms.service: microsoft-edge
-ms.technology: windows-integration
+ms.subservice: windows-integration
 keywords: Windows Runtime, WinRT, PWA, JavaScript
 ms.date: 12/02/2020
 ROBOTS: NOINDEX,NOFOLLOW

@@ -4,7 +4,7 @@ title: "JavaScript Representation of Windows Runtime Types"
 ms.custom: ""
 ms.date: 10/30/2020
 ms.service: microsoft-edge
-ms.technology: "windows-integration"
+ms.subservice: windows-integration
 ms.topic: "article"
 helpviewer_keywords: 
   - "Windows Runtime types [JavaScript]"

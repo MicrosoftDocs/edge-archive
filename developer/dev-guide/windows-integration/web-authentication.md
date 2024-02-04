@@ -6,7 +6,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
 ms.service: microsoft-edge
-ms.technology: windows-integration
+ms.subservice: windows-integration
 keywords: edge, web development, html, css, javascript, developer
 ms.date: 11/19/2020
 ROBOTS: NOINDEX,NOFOLLOW

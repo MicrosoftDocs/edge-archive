@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
 ms.service: microsoft-edge
-ms.technology: extensions
+ms.subservice: extensions
 keywords: edge, web development, html, css, javascript, developer, extensions
 ms.date: 11/19/2020
 ROBOTS: NOINDEX,NOFOLLOW

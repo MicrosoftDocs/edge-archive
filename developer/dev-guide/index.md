@@ -6,7 +6,7 @@ ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: microsoft-edge
-ms.technology: edgehtml
+ms.subservice: edgehtml
 keywords: edge, web development, html, css, javascript, developer, devtools
 ms.custom: RS5
 ROBOTS: NOINDEX,NOFOLLOW

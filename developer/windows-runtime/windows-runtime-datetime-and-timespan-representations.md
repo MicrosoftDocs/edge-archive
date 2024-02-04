@@ -4,7 +4,7 @@ title: "Windows Runtime DateTime and TimeSpan Representations"
 ms.custom: ""
 ms.date: 11/03/2020
 ms.service: microsoft-edge
-ms.technology: "windows-integration"
+ms.subservice: windows-integration
 ms.topic: "article"
 helpviewer_keywords: 
   - "JavaScript, Windows Runtime dates and times"

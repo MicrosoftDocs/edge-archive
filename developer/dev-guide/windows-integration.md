@@ -4,7 +4,7 @@ title: Windows integration features - Dev guide
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.technology: windows-integration
+ms.subservice: windows-integration
 ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer
 ms.date: 11/19/2020
