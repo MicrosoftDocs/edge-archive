@@ -4,7 +4,7 @@ title: Microsoft Edge DevTools Protocol
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.date: 03/16/2021
 ROBOTS: NOINDEX,NOFOLLOW
 ---

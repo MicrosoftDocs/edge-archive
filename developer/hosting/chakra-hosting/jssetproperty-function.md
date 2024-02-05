@@ -1,7 +1,7 @@
 ---
 description: "Puts an object's property."
 title: "JsSetProperty Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetProperty"

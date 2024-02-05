@@ -4,7 +4,7 @@ title: Extensions - Getting started
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer, extensions
 ms.date: 03/16/2021
 ROBOTS: NOINDEX,NOFOLLOW

@@ -1,7 +1,7 @@
 ---
 description: "Creates a JavaScript symbol."
 title: "JsCreateSymbol Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 2fccc5d9-f857-46cd-9aeb-f0a2e7cdee6b
 caps.latest.revision: 2

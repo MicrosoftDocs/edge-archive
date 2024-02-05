@@ -1,7 +1,7 @@
 ---
 description: "Gets the value of `false` in the current script context."
 title: "JsGetFalseValue Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsGetFalseValue"

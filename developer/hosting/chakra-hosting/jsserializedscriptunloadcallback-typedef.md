@@ -1,7 +1,7 @@
 ---
 description: "Called by the runtime when it is finished with all resources related to the script execution. The caller should free the source if loaded, the byte code, and the context at this time."
 title: "JsSerializedScriptUnloadCallback typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 8d18c392-cca0-411e-9f2b-0d788b16161a
 caps.latest.revision: 3

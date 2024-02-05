@@ -1,7 +1,7 @@
 ---
 description: "Sets a callback function that is called by the runtime before garbage collection. "
 title: "JsSetRuntimeBeforeCollectCallback Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetRuntimeBeforeCollectCallback"

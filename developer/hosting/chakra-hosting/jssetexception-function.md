@@ -1,7 +1,7 @@
 ---
 description: "Sets the runtime of the current context to an exception state."
 title: "JsSetException Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSetException"

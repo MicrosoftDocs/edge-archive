@@ -4,7 +4,7 @@ description: Provides helper functions that enable you to create Blob and MSStre
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: MSapp, PWA, file upload, Blog, MSStream, windows 10 apps, uwp, edge
 ms.date: 03/16/2021
 ROBOTS: NOINDEX,NOFOLLOW

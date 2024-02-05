@@ -1,7 +1,7 @@
 ---
 description: "Obtains the underlying memory storage used by an ArrayBuffer."
 title: "JsGetArrayBufferStorage Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 712ae298-36a9-47ef-b089-e51835c056bc
 caps.latest.revision: 2

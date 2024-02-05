@@ -1,7 +1,7 @@
 ---
 description: "Starts profiling in the current context."
 title: "JsStartProfiling Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsStartProfiling"

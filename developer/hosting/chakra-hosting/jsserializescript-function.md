@@ -1,7 +1,7 @@
 ---
 description: "Serializes a parsed script to a buffer than can be reused."
 title: "JsSerializeScript Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsSerializeScript"

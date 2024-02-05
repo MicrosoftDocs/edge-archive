@@ -1,7 +1,7 @@
 ---
 description: "An invalid property identifier."
 title: "JS_INVALID_PROPERTYID Constant | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 1d2e8768-b2c9-4447-b3f2-3b2ac0abad4f
 caps.latest.revision: 11

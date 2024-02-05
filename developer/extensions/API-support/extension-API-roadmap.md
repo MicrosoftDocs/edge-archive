@@ -4,7 +4,7 @@ title: Extensions API roadmap
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, api, extensions, javascript, developer
 ms.custom: seodec18
 ms.date: 11/19/2020

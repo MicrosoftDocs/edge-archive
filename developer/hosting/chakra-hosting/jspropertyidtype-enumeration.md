@@ -1,7 +1,7 @@
 ---
 description: JsPropertyIdType Enumeration Type enumeration of a JavaScript property.
 title: JsPropertyIdType enumeration
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 1b8293ca-a040-402d-8ea5-4299390adcd0
 caps.latest.revision: 2

@@ -1,7 +1,7 @@
 ---
 description: "A callback called before collecting an object."
 title: "JsObjectBeforeCollectCallback Typedef | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: f21a064a-579f-44cb-9d21-76b62e8c18f5
 caps.latest.revision: 3

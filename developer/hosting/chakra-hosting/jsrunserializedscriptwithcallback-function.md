@@ -1,7 +1,7 @@
 ---
 description: "Runs a serialized script. Provides the ability to lazy load the script source only if/when it is needed."
 title: "JsRunSerializedScriptWithCallback Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 0608d778-f65b-4dc5-a745-364aac57ef59
 caps.latest.revision: 4

@@ -1,7 +1,7 @@
 ---
 description: "Determines whether an object has its indexed properties in external data."
 title: "JsHasIndexedPropertiesExternalData Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: c676db20-3ef1-4f84-8b26-3e06fe0ab2bf
 caps.latest.revision: 2

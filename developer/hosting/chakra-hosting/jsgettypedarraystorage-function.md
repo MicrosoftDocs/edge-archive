@@ -1,7 +1,7 @@
 ---
 description: "Obtains the underlying memory storage used by a typed array."
 title: "JsGetTypedArrayStorage Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 52e4ac5f-cc71-456d-95de-a48f7327503d
 caps.latest.revision: 2

@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ROBOTS: NOINDEX,NOFOLLOW
 ---
 # Runtime Domain - DevTools Protocol Version 0.2 (EdgeHTML)  

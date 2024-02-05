@@ -5,7 +5,7 @@ author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.date: 11/03/2020
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: microsoft edge, web development, f12 tools, devtools, web storage, local storage, session storage, indexeddb, cookies, service worker, cache
 ms.custom: seodec18
 ROBOTS: NOINDEX,NOFOLLOW

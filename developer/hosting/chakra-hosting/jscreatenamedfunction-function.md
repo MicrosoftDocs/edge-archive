@@ -1,7 +1,7 @@
 ---
 description: "Creates a new JavaScript function with name."
 title: "JsCreateNamedFunction Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 72f40d06-ab82-4fed-a632-68af6b4126c2
 caps.latest.revision: 2

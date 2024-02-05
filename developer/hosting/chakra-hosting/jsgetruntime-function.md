@@ -1,7 +1,7 @@
 ---
 description: "Gets the runtime that the context belongs to."
 title: "JsGetRuntime Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsGetRuntime"

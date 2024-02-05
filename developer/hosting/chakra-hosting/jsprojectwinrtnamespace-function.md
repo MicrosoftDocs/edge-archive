@@ -1,7 +1,7 @@
 ---
 description: "Project a WinRT namespace."
 title: "JsProjectWinRTNamespace Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 8a23c154-df4b-4ce3-9fef-f41f90acdb87
 caps.latest.revision: 5

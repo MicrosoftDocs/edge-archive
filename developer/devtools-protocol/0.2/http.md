@@ -4,7 +4,7 @@ title: Microsoft Edge DevTools Protocol Version 0.2 HTTP Endpoints (EdgeHTML)
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: reference
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.date: 11/19/2020
 ROBOTS: NOINDEX,NOFOLLOW
 ---

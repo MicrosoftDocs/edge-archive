@@ -1,7 +1,7 @@
 ---
 description: "Retrieves the `bool` value of a Boolean value."
 title: "JsBooleanToBool Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsBooleanToBool"

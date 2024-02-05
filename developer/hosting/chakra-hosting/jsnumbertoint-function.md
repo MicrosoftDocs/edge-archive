@@ -1,7 +1,7 @@
 ---
 description: "Retrieves the `int` value of a number value."
 title: "JsNumberToInt Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 ms.assetid: 8b9256d6-76ac-4c74-a97c-fbb16c13f5f5
 caps.latest.revision: 2

@@ -4,7 +4,7 @@ title: Extensions - Supported APIs
 author: MSEdgeTeam
 ms.author: msedgedevrel
 ms.topic: article
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 keywords: edge, web development, html, css, javascript, developer
 ms.date: 11/19/2020
 ROBOTS: NOINDEX,NOFOLLOW

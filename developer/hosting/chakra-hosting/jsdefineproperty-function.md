@@ -1,7 +1,7 @@
 ---
 description: "Defines a new object's own property from a property descriptor."
 title: "JsDefineProperty Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsDefineProperty"

@@ -1,7 +1,7 @@
 ---
 description: "Gets the current memory usage for a runtime."
 title: "JsGetRuntimeMemoryUsage Function | Microsoft Docs"
-ms.prod: microsoft-edge
+ms.service: microsoft-edge
 ms.topic: "reference"
 f1_keywords: 
   - "jsrt/JsGetRuntimeMemoryUsage"
